@@ -1,7 +1,8 @@
 ### Hi there 👋
 <!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
-<codersrank-summary username="MrBearing"></codersrank-summary>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=MrBearing&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 <!--
 **MrBearing/MrBearing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
