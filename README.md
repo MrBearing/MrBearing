@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- replace x.x.x with actual version -->
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=MrBearing&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=MrBearing&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
 <!--
