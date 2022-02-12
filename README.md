@@ -1,7 +1,8 @@
-### Hi there 👋
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
 
-![Takumi Okamoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBearing&show_icons=true)
+
+### Hi there 👋
+
+![Takumi Okamoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBearing&show_icons=true&count_private=true&theme=chartreuse-dark)
 
 <h3 align="left">Editor and Tools:</h3>
 <p align="left"> 
@@ -25,5 +26,7 @@
 </p>
 <h3 align="left">Batch</h3>
 <p align="left">
-<codersrank-summary username="MrBearing" layout="vertical"></codersrank-summary>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=MrBearing&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 </p>
