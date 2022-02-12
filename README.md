@@ -20,8 +20,8 @@
 
 <h3 align="left">Library/Hardware</h3>
 <p align="left">
-  <a href="https://www.ros.org/" target="_blank"> <img src="" alt="ROS2" width="40" height="40"/> </a>
-  <a href="https://www.ros.org/" target="_blank"> <img src="" alt="ROS" width="40" height="40"/> </a>
+  <a href="https://www.ros.org/" target="_blank"> <img src="./img/ROS_logo_color.svg" alt="ROS" height="40"/> </a>
+  <a href="https://www.ros.org/" target="_blank"> <img src="./img/ROS2_Color.svg" alt="ROS"  height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Batch</h3>
