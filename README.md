@@ -1,21 +1,29 @@
 ### Hi there 👋
-<!-- replace x.x.x with actual version -->
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=MrBearing&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
 
-<!--
-**MrBearing/MrBearing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Takumi Okamoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBearing&show_icons=true)
 
-Here are some ideas to get you started:
+<h3 align="left">Editor and Tools:</h3>
+<p align="left"> 
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages:</h3>
+<p align="left"> 
+  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="40" height="40"/> </a>
+  <a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
+  <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
+</p>
 
+<h3 align="left">Library/Hardware</h3>
+<p align="left">
+  <a href="https://www.ros.org/" target="_blank"> <img src="" alt="ROS2" width="40" height="40"/> </a>
+  <a href="https://www.ros.org/" target="_blank"> <img src="" alt="ROS" width="40" height="40"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+</p>
+<h3 align="left">Batch</h3>
+<p align="left">
+<codersrank-summary username="MrBearing" layout="vertical"></codersrank-summary>
+</p>
