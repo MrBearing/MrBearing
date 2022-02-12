@@ -26,7 +26,9 @@
 </p>
 <h3 align="left">Batch</h3>
 <p align="left">
+<a href="https://profile.codersrank.io/user/mrbearing/" target="_blank">
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=MrBearing&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=MrBearing&badges=3&show-avatar=true&branding=false"
+  alt="CordersRank"
+/></a>
 </p>
