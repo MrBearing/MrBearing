@@ -1,7 +1,3 @@
-
-
-### Hi there 👋
-
 ![Takumi Okamoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBearing&show_icons=true&count_private=true&theme=chartreuse-dark)
 
 <h3 align="left">Editor and Tools:</h3>
