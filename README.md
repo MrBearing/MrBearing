@@ -1,5 +1,5 @@
-![Takumi Okamoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBearing&show_icons=true&count_private=true&theme=chartreuse-dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrBearing)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- ![Takumi Okamoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBearing&show_icons=true&count_private=true&theme=chartreuse-dark) -->
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=MrBearing)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <h3 align="left">Editor and Tools:</h3>
 <p align="left"> 
