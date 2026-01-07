@@ -26,6 +26,6 @@
 <a href="https://profile.codersrank.io/user/mrbearing/" target="_blank">
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=MrBearing&badges=3&show-avatar=true&branding=false"
-  alt="CordersRank"
+  alt="CordersRank" width="600"
 /></a>
 </p>
